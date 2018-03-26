@@ -1,0 +1,16 @@
+{
+  "name": "poc-graphql-server",
+  "version": "1.0.0",
+  "description": "An graphql experiment using node fastify and Apollo Server",
+  "main": "server/index.js",
+  "author": "Andreo Viera <contato@andreovieira.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
